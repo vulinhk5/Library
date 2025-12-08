@@ -1,7 +1,7 @@
 # Library
 # Đặc tả bài toán: Hệ thống quản lý thư viện cho phép người dùng (User) đăng nhập với vai trò Member hoặc Librarian.
 # Các chức năng chính của hệ thống:
-# - Quản lý người dùng (User, Member, Librarian)
+- Quản lý người dùng (User, Member, Librarian)\n
 # - Quản lý tài liệu (Document)
 # - Kiểm tra số lượng tài liệu để phục vụ cho chức năng mượn/trả
 # - Phân quyền dựa trên role
